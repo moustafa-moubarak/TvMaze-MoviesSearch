@@ -1,0 +1,16 @@
+html, body{
+    background-color: #161b22;
+}
+h1{
+    color: whitesmoke;
+
+}
+
+#photos{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.img{
+    margin: 1em;
+}
